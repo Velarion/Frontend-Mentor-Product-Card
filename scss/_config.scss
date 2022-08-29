@@ -1,0 +1,18 @@
+$primary-font: 'Montserrat';
+$secondary-font: 'Fraunces';
+
+$primary-color: hsl(158, 36%, 37%);
+$secondary-color: hsl(200, 12%, 50%);
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(30, 38%, 92%);
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
